@@ -19,5 +19,5 @@ Repositorio de Módulo VI **Series de Tiempo** del Diplomado de Matemáticas y E
 Para descargar el repositorio para la rama ```main``` utiliza la instrucción:
 
 ```
-git clone -b main https://github.com/milocortes/diplomado_ciencia_datos_mide.git
+git clone -b main https://github.com/milocortes/series_tiempo_mide.git
 ```
